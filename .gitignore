@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+# Python cache files
+__pycache__/
+*.py[cod]
+# Jupyter checkpoints (if any)
+.ipynb_checkpoints/
+# OS files
+.DS_Store
+# Logs or junk
+*.log

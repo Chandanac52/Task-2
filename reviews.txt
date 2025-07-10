@@ -1,0 +1,10 @@
+1	I love this movie
+0	This movie was boring
+1	Absolutely fantastic film
+0	I hated the ending
+1	Great acting and direction
+0	Waste of time
+1	Beautiful storyline
+0	Poor performance
+1	Enjoyed every moment
+0	Terrible experience
