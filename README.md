@@ -1,3 +1,16 @@
+Company : CODTECH IT SOLUTIONS
+
+Name : Reddy Akkamma Chandana
+
+Intern ID : CT06DG1234
+
+Domain : Data Science
+
+Duration : 6 Weeks
+
+Mentor : Neela Santosh
+
+
 Objective:
 Implement a sentiment classifier using a deep learning model trained on labeled text reviews.
 
